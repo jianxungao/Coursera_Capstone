@@ -1,1 +1,1 @@
-Capstone Project for IBM Applied Data Science
+Capstone Projects for IBM Applied Data Science
